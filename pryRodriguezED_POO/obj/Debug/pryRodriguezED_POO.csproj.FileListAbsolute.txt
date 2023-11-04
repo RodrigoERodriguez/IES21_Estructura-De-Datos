@@ -1,0 +1,11 @@
+D:\Escritorio\pryRodriguezED_POO\bin\Debug\pryRodriguezED_POO.exe.config
+D:\Escritorio\pryRodriguezED_POO\bin\Debug\pryRodriguezED_POO.exe
+D:\Escritorio\pryRodriguezED_POO\bin\Debug\pryRodriguezED_POO.pdb
+D:\Escritorio\pryRodriguezED_POO\obj\Debug\pryRodriguezED_POO.csproj.AssemblyReference.cache
+D:\Escritorio\pryRodriguezED_POO\obj\Debug\pryRodriguezED_POO.csproj.SuggestedBindingRedirects.cache
+D:\Escritorio\pryRodriguezED_POO\obj\Debug\pryRodriguezED_POO.frmInicio.resources
+D:\Escritorio\pryRodriguezED_POO\obj\Debug\pryRodriguezED_POO.Properties.Resources.resources
+D:\Escritorio\pryRodriguezED_POO\obj\Debug\pryRodriguezED_POO.csproj.GenerateResource.cache
+D:\Escritorio\pryRodriguezED_POO\obj\Debug\pryRodriguezED_POO.csproj.CoreCompileInputs.cache
+D:\Escritorio\pryRodriguezED_POO\obj\Debug\pryRodriguezED_POO.exe
+D:\Escritorio\pryRodriguezED_POO\obj\Debug\pryRodriguezED_POO.pdb
